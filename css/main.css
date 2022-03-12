@@ -92,6 +92,11 @@ h1, h2, h3 {
     letter-spacing: 1px;
 }
 
+.offer .btn:hover {
+    color: black;
+    background: white;
+}
+
 .offer h1 {
     line-height: 112%;
     margin-bottom: 42px;
